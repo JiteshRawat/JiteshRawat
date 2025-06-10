@@ -62,7 +62,7 @@
 
 #### 👨‍💻 About Me
 
-Results-driven Data Engineer with 2.5 years of extensive experience in orchestrating ETL and ELT pipelines for API data integration into BigQuery and Snowflake. Skilled in leveraging Google Cloud Platform tools to enhance the performance, scalability, and reliability of data workflows.
+Results-driven Data Engineer with 3 years of extensive experience in orchestrating ETL and ELT pipelines for API data integration into BigQuery and Snowflake. Skilled in leveraging Google Cloud Platform tools to enhance the performance, scalability, and reliability of data workflows.
 
 ---
 
